@@ -1,0 +1,7 @@
+secrets.env
+*.flag
+*.token
+*.pfx
+*.key
+/tmp/
+*.log
